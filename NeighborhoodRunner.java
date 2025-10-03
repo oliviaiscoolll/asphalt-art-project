@@ -2,20 +2,15 @@ import org.code.neighborhood.*;
 
 public class NeighborhoodRunner {
   public static void main(String[] args) {
+  // Fills and paints in the background
+  BackgroundPainter Olivia = new BackgroundPainter();
+    Olivia.setPaint(100000);
 
-    PokemonPainter olivia = new PokemonPainter();
-
-
-    //String input controls background color
-    //Paints solid color background over back outline
-    olivia.paintCharmanderOutline("white");
-
-    //Paints eye
-    //Sting input controls eye color
-    olivia.paintCharmanderEye("black");
-
-    //Colors in the outline
-    //String input controls primary color
-    olivia.colorCharmander("orange");
+    Olivia.paintBackground();
+// Paints flower
+ FlowerPainter fp = new FlowerPainter();
+    fp.setPaint(100000);
+    fp.paintFlower();
+    
   }
 }

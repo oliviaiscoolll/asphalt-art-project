@@ -20,17 +20,17 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![the output of my asphalt art project](Charmander.png)
+![the output of my asphalt art project](Flower.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - I decided to create an image based off one of my favorite pokemon which is Charmander. Charmander is a pokemon that is classified as a fire type pokemon, hence why Charmander has a fire on its tail.
+   - I decided to draw a simple blue flower with a center and a stem. I chose the 12x12 grid to make the code more simple and so I can really grasp the concept of how to code and use methods correctly.
 
 2. What are two things about your project that you are proud of?
 
-    - The first thing I am proud on is that I was able to code the painting of Charmander exactly how I wanted it to look. Even though it took me many tries and many methods, I am also proud that my code contains no syntax errors and runs flawlessly. 
+    - The first thing I am proud of my project is that I was able to make the code run without any syntax errors. Even though it took some debugging, I eventually got it to work. Another thing that I am proud of is that the output looks like a flower, and not some random painting. I am proud that I was able to code correctly so the painter could paint the flower I wanted it to paint.
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Something that I would like to do differently if I had the opportunity is to add more details in the background of my painting. I spent too much time on the pokemon itself, I did not have anytime to work on the background.
+   - Something that I would like to do differently is if I had more time, I would make the flower more detailed and complex, also adding more methods to my code.

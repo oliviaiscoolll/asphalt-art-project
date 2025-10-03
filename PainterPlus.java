@@ -2,7 +2,7 @@ import org.code.neighborhood.*;
 
 public class PainterPlus extends Painter{
 
-//Method for turning right
+//Method to turn right
   
 public void turnRight(){
   this.turnLeft();
@@ -10,7 +10,7 @@ public void turnRight(){
   turnLeft();
   }
 
-//Method for taking all paint buckets on a square (not used)
+//Method for taking all paint buckets on a square
   
 public void takeAllPaint(){
   while (isOnBucket()) {
